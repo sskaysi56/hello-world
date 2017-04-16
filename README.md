@@ -1,2 +1,3 @@
 # hello-world
-I am a  githubuser and I am learning HTML and Javascript. 
+I am a  githubstudent, learning HTML and Javascript. 
+Wish me goodluck#
